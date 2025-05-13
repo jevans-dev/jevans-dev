@@ -18,7 +18,7 @@ I'm a developer with a strong foundation in computer science and a passion for b
 
 ## 🎯 Career Goals
 
-I'm working toward becoming a **full stack developer**, with a long-term goal of entering the **gaming industry** as a game developer. My dream is to contribute to platforms and worlds that inspire creativity and connection — the same way games did for me growing up.
+I'm working toward becoming a **full stack developer**, with a long-term goal of entering the **gaming industry** as a game developer. My dream is to contribute to platforms and worlds that inspire creativity and connection, the same way games did for me growing up.
 
 Dream companies: **Google**, **Roblox**, **Epic Games**
 
